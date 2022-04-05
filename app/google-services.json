@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "459909820834",
+    "firebase_url": "https://hostel-management-c64fe.firebaseio.com",
+    "project_id": "hostel-management-c64fe",
+    "storage_bucket": "hostel-management-c64fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459909820834:android:6dda95639e2bfb7a8b82fb",
+        "android_client_info": {
+          "package_name": "com.abstractit.hostelmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459909820834-uqtahjomv3uf8l8p2a6sc4fl430a49b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7w8kF_aH1mjhZfUfZvFysnw-rzlhpxcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459909820834-uqtahjomv3uf8l8p2a6sc4fl430a49b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

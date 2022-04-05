@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnAddStudent"
+        android:layout_height="60dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/button_login"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Add Student"/>
+
+
+    <Button
+        android:id="@+id/btnShowstudent"
+        android:layout_height="60dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/button_login"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Student Details"/>
+
+<!--    <Button-->
+<!--        android:id="@+id/btnStudentAttendance"-->
+<!--        android:layout_height="60dp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:background="@drawable/button_login"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:text="Student Attendance"/>-->
+    <Button
+        android:id="@+id/btnStudentAttendancebyDate"
+        android:layout_height="60dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/button_login"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Attendance By Date"/>
+
+
+
+</LinearLayout>
